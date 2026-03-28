@@ -9,6 +9,7 @@ def main():
     print("Hello from githubpoc!")
     print_table(2)
     print_table(3)
+    print_table(4)
     
 
 if __name__ == "__main__":
